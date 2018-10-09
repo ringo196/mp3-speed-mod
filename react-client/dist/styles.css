@@ -1,0 +1,57 @@
+body {
+  background-image: url("https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-454326.jpg");
+  background-size: cover;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+  background-color: black;
+}
+
+#app {
+  display: flex;
+  justify-content: center;
+}
+
+#audioPlayer {
+  margin: 10px 10px 10px 10px
+}
+
+#playbackInput {
+  margin-right: 2px;
+}
+
+button {
+  margin-left: 5px
+}
+
+#percent {
+  color: white;
+}
+
+.dropzone {
+  height: 75px;
+  width: 300px;
+  border: dashed #ccc;
+  color: #ccc;
+  font-size: 20px;
+  text-align: center;
+  align-content: center;
+  background-color: black;
+  margin-left: 7px;
+}
+
+.dragover {
+  height: 75px;
+  width: 300px;
+  border: dashed #000;
+  color: #fff;
+  background-color: black;
+  text-align: center;
+}
+
+#playbackContainer {
+  display: flex;
+  justify-content: center;
+}
