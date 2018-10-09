@@ -1,9 +1,6 @@
 # mp3-speed-mod
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/1lwcGdD"><a href="//imgur.com/1lwcGdD"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
-![alt text](https://imgur.com/e0UurQs)
-
+![screen](screen01.png)
 
 
 # Installation and Usage
